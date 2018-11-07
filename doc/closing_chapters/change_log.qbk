@@ -26,6 +26,10 @@ Boost.Test releases:
 
 [#ref_CHANGE_LOG_3_13][h4 Boost.Test v3.13 / boost 1.73]
 
+[h5 Breaking changes]
+
+* Removing long time deprecated headers
+
 [h5 New features]
 
 [h5 Bugfixes and feature requests]
